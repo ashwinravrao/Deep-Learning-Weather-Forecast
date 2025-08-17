@@ -29,4 +29,3 @@
 **Scoring:** Mean Absolute Error (MAE)
 
 ---
-Final deep learning project for CSC 578 (Neural Networks and Deep Learning)
